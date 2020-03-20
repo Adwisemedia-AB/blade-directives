@@ -4,7 +4,7 @@
 ![CircleCI](https://img.shields.io/circleci/build/gh/Log1x/blade-directives.svg?style=flat-square)
 ![Packagist](https://img.shields.io/packagist/dt/Adwisemedia-AB/blade-directives.svg?style=flat-square)
 
-Sage Directives is a simple Composer package adding a variety of useful Blade directives for use with Sage 9 including directives for WordPress, ACF, and various miscellaneous helpers.
+Sage Directives is a simple Composer package adding a variety of useful Blade directives for use with Sage 9 including directives for WordPress, ACF, WooCommerce, and various miscellaneous helpers.
 
 ## Requirements
 
@@ -29,18 +29,8 @@ $ yarn run docs:build
 
 ## Support
 
-- [Documentation](https://Adwisemedia-AB.github.io/blade-directives-docs/)
 - [Discourse](https://discourse.roots.io/t/blade-directives-for-sage/14301)
 
-## Bug Reports
-
-If you discover a bug in Sage Directives, please [open an issue](https://github.com/Adwisemedia-AB/blade-directives/issues).
-
-## Contributing
-
-Contributing whether it be through PRs, reporting an issue, or suggesting an idea is encouraged and appreciated. When contributing code, please follow the existing directive format.
-
-I work on Sage Directives entirely in my free time. If Sage Directives has helped you immensely and you would like to support me working on it in the future– feel free to leave a contribution using the :heart: **Sponsor** button above.
 
 ## License
 
