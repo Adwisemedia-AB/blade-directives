@@ -1,6 +1,6 @@
-# Sage Directives
+# Blade Directives
 
-Sage Directives is a simple Composer package adding a variety of useful Blade directives for use with Sage 9 including directives for WordPress, ACF, WooCommerce, and various miscellaneous helpers.
+Blade Directives is a simple Composer package adding a variety of useful Blade directives for use with Sage 9 including directives for WordPress, ACF, WooCommerce, and various miscellaneous helpers.
 
 ## Requirements
 
@@ -30,4 +30,4 @@ $ yarn run docs:build
 
 ## License
 
-Sage Directives is provided under the [MIT License](https://github.com/Adwisemedia-AB/blade-directives/blob/master/LICENSE.md).
+Blade Directives is provided under the [MIT License](https://github.com/Adwisemedia-AB/blade-directives/blob/master/LICENSE.md).
