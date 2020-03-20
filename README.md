@@ -13,7 +13,7 @@ Blade Directives is a simple Composer package adding a variety of useful Blade d
 Install via Composer:
 
 ```bash
-$ composer require Adwisemedia-AB/blade-directives
+$ composer require adwisemedia/blade-directives
 ```
 
 ## Build Documentation
