@@ -1,6 +1,6 @@
 <?php
 
-namespace Log1x\SageDirectives;
+namespace Adwisemedia\BladeDirectives;
 
 use Illuminate\Support\Str;
 

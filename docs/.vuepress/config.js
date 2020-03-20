@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Sage Directives',
   description: 'Empower your Roots Sage workflow',
-  base: '/sage-directives-docs/',
+  base: '/blade-directives-docs/',
 
   plugins: ['@vuepress/back-to-top'],
 
@@ -21,8 +21,8 @@ module.exports = {
 
     nav: [
       { text: 'Support', link: 'https://discourse.roots.io/t/blade-directives-for-sage/14301' },
-      { text: 'Changelog', link: 'https://github.com/log1x/sage-directives/blob/master/CHANGELOG.md' },
-      { text: 'GitHub', link: 'https://github.com/log1x/sage-directives' }
+      { text: 'Changelog', link: 'https://github.com/Adwisemedia-AB/blade-directives/blob/master/CHANGELOG.md' },
+      { text: 'GitHub', link: 'https://github.com/Adwisemedia-AB/blade-directives' }
     ],
 
     sidebar: [

@@ -1,8 +1,8 @@
 # Sage Directives
 
-![Package Version](https://img.shields.io/packagist/v/log1x/sage-directives.svg?style=flat-square)
-![Build Status](https://img.shields.io/circleci/build/gh/Log1x/sage-directives.svg?style=flat-square)
-![Total Downloads](https://img.shields.io/packagist/dt/log1x/sage-directives.svg?style=flat-square)
+![Package Version](https://img.shields.io/packagist/v/Adwisemedia-AB/blade-directives.svg?style=flat-square)
+![Build Status](https://img.shields.io/circleci/build/gh/Log1x/blade-directives.svg?style=flat-square)
+![Total Downloads](https://img.shields.io/packagist/dt/Adwisemedia-AB/blade-directives.svg?style=flat-square)
 
 Sage Directives is a simple Composer package adding a variety of useful Blade directives for use with Sage 9 including directives for WordPress, ACF, and various miscellaneous helpers.
 
@@ -17,7 +17,7 @@ Sage Directives is a simple Composer package adding a variety of useful Blade di
 Install via Composer:
 
 ```bash
-$ composer require log1x/sage-directives
+$ composer require Adwisemedia-AB/blade-directives
 ```
 
 ## Build Documentation
@@ -30,12 +30,12 @@ $ yarn run docs:dev
 
 ## Support
 
-- [Documentation](https://log1x.github.io/sage-directives-docs/)
+- [Documentation](https://Adwisemedia-AB.github.io/blade-directives-docs/)
 - [Discourse](https://discourse.roots.io/t/blade-directives-for-sage/14301)
 
 ## Bug Reports
 
-If you discover a bug in Sage Directives, please [open an issue](https://github.com/log1x/sage-directives/issues).
+If you discover a bug in Sage Directives, please [open an issue](https://github.com/Adwisemedia-AB/blade-directives/issues).
 
 ## Contributing
 
@@ -45,4 +45,4 @@ I work on Sage Directives entirely in my free time. If Sage Directives has helpe
 
 ## License
 
-Sage Directives is provided under the [MIT License](https://github.com/log1x/sage-directives/blob/master/LICENSE).
+Sage Directives is provided under the [MIT License](https://github.com/Adwisemedia-AB/blade-directives/blob/master/LICENSE).

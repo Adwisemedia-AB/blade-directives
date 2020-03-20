@@ -96,8 +96,8 @@
 ## v1.0.6 (03-02-2019)
 
 ### Enhancements
-- Change namespace to `Log1x\SageDirectives`
-- The project README was getting a little insane with the amount of Directives currently in the project. They now have a new home: https://log1x.github.io/sage-directives-docs/
+- Change namespace to `Adwisemedia\BladeDirectives`
+- The project README was getting a little insane with the amount of Directives currently in the project. They now have a new home: https://Adwisemedia-AB.github.io/blade-directives-docs/
 
 ### Bug Fixes
 - Set `ignore_sticky_posts` to `true` when passing an array of post IDs/objects to `@posts`

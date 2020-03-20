@@ -1,6 +1,6 @@
 <?php
 
-namespace Log1x\SageDirectives;
+namespace Adwisemedia\BladeDirectives;
 
 class Directives
 {
@@ -31,7 +31,7 @@ class Directives
     {
         add_action('after_setup_theme', function () {
             // Allow themes to override 'App' namespace, default: App;
-            $this->namespace = apply_filters('log1x/sage-directives/namespace', 'App');
+            $this->namespace = apply_filters('adwisemedia/blade-directives/namespace', 'App');
 
             if (! $this->blade()) {
                 return;
